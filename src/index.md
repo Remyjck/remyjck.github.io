@@ -55,7 +55,15 @@ files:
 # Education
 
 - Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/)
-- Master's in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science)
+- Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science)
+
+# Research Visits
+
+In 2022, I had the opportunity to work with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group hosted at UNSW Sydney, Australia.
+There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.systems/projects/pancake/) using CakeML's verified compilation toolchain.
+
+As of 2025, I am working with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge, UK.
+There, I am working on the formal verification of Rust programs.
 
 # Teaching
 
