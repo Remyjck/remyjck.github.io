@@ -65,11 +65,11 @@ header {
     ),
     url("img/banner1.jpg") 50% / cover;
   gap: 5px;
+  padding-top: 4px;
 }
 
 header aside {
   color: white;
-  padding-top: 4px;
   padding-bottom: 4px;
 }
 
