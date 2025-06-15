@@ -7,9 +7,8 @@ og-url: https://remyjck.github.io
 location: Microsoft Research, Cambridge
 email: remy.seassau@inria.fr
 picture: img/profile.jpg
-picture-round: false
+picture-round: true
 side-by-side: false
-pronouns: He/Him
 og-picture: https://remyjck.github.io/img/profile.jpg
 orcid: 0009-0008-6226-1413
 scholar: https://scholar.google.com/citations?user=Qg94i1YAAAAJ
@@ -35,96 +34,29 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 
 ## Conference papers
 
-``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
-```
-
-## Journal papers
-
 ``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
+title: Formal semantics and program logics for a fragment of OCaml.
+authors: Remy Seassau, Irene Yoon, Jean-Marie Madiot, François Pottier
+venue: Submitted Draft,
+year: 2025,
 files:
   - text: Paper
     type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
+    src: papers/osiris.pdf
 ```
 
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
+## Workshop papers
 
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
+``` yaml {.paper}
+title: Pancake: Verified Systems Programming Made Sweeter
+authors: Johannes Åman Pohjola, ..., Remy Seassau, M. O. Myreen, M. Norrish, G. Heiser
+venue: PLOS, Koblenz, Germany
+year: 2023
+url: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
+files:
+  - text: Paper
+  - type: pdf
+  - src: papers/pancake.pdf
 ```
 
 ## Talks
