@@ -8,19 +8,14 @@ location: Microsoft Research, Cambridge
 email: remy.seassau@inria.fr
 picture: img/profile.png
 picture-round: false
-side-by-side: true
+side-by-side: false
 pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
+orcid: 0009-0008-6226-1413
+scholar: https://scholar.google.com/citations?user=Qg94i1YAAAAJ
 mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
 bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+linkedin: https://www.linkedin.com/in/remy-seassau/
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
