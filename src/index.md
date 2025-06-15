@@ -55,8 +55,8 @@ year: 2023
 url: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
 files:
   - text: Paper
-  - type: pdf
-  - src: ~/papers/pancake.pdf
+    type: pdf
+    src: ~/papers/pancake.pdf
 ```
 
 ## Talks
