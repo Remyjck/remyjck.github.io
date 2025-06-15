@@ -20,15 +20,8 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
-
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
 
 # Publications
 
@@ -59,39 +52,11 @@ files:
     src: papers/pancake.pdf
 ```
 
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
-
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/)
+- Master's in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science)
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
-
-# Community service
-
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- Introduction to Programming (IP1), Université Paris Cité
