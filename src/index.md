@@ -1,5 +1,5 @@
 ---
-title: Template homepage
+title: Remy Seassau
 author: Remy Seassau
 shortbio: PhD student in Computer Science
 description-meta: PhD student in Computer Science
@@ -13,7 +13,7 @@ pronouns: He/Him
 og-picture: https://remyjck.github.io/img/profile.jpg
 orcid: 0009-0008-6226-1413
 scholar: https://scholar.google.com/citations?user=Qg94i1YAAAAJ
-bluesky: https://bsky.app/
+bluesky: https://bsky.app/profile/remyjck.bsky.social
 linkedin: https://www.linkedin.com/in/remy-seassau/
 footer: >-
   Based on the
