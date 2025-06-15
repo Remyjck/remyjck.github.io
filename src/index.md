@@ -10,10 +10,9 @@ picture: img/profile.png
 picture-round: false
 side-by-side: false
 pronouns: He/Him
-og-picture: https://basicpage.github.io/img/profile.png
+og-picture: https://remyjck.github.io/img/profile.png
 orcid: 0009-0008-6226-1413
 scholar: https://scholar.google.com/citations?user=Qg94i1YAAAAJ
-mastodon: https://lipn.info
 bluesky: https://bsky.app/
 linkedin: https://www.linkedin.com/in/remy-seassau/
 footer: >-
