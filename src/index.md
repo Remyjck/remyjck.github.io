@@ -1,15 +1,15 @@
 ---
 title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
+author: Remy Seassau
+shortbio: PhD student in Computer Science
+description-meta: PhD student in Computer Science
+og-url: https://remyjck.github.io
+location: Microsoft Research, Cambridge
+email: remy.seassau@inria.fr
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
