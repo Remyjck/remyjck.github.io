@@ -61,6 +61,7 @@ header {
   /* padding: 15px; */
   background: url("img/banner1.jpg") 50% / cover;
   gap: 5px;
+  color: white;
 }
 
 header img {
