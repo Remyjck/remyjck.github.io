@@ -37,11 +37,11 @@ My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
 ``` yaml {.paper}
 title: Formal semantics and program logics for a fragment of OCaml.
 authors: Remy Seassau, Irene Yoon, Jean-Marie Madiot, François Pottier
-venue: Submitted Draft,
-year: 2025,
+venue: Submitted Draft
+year: 2025
 files:
   - text: Paper
-    type: pdf
+    type: link
     src: https://remyjck.github.io/papers/osiris.pdf
 ```
 
@@ -55,7 +55,7 @@ year: 2023
 url: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
 files:
   - text: Paper
-    type: pdf
+    type: link
     src: https://remyjck.github.io/papers/pancake.pdf
 ```
 
