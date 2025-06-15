@@ -70,6 +70,7 @@ header aside {
 header img {
   /* flex: 1; */
   max-width: 200px;
+  border: solid white 4px;
 }
 
 header h1 {
