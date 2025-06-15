@@ -86,7 +86,12 @@
       $if(email)$
       <p><i class="fa-regular fa-envelope fa-fw"></i> <code>$email$</code></p>
       $endif$
-      <div class="icons">
+    </aside>
+  </header>
+  $if(toc)$
+  <nav>
+    $table-of-contents$
+    <div class="icons">
         $if(orcid)$
         <a href="https://orcid.org/$orcid$" title="ORCID">
           <i class="ai ai-orcid ai-fw icon-pad-right"></i>
@@ -138,11 +143,6 @@
         </a>
         $endif$
       </div>
-    </aside>
-  </header>
-  $if(toc)$
-  <nav>
-    $table-of-contents$
   </nav>
   $endif$
   <main>
