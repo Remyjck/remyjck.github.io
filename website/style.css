@@ -1,6 +1,6 @@
 :root {
   --bg: #fbfdff;
-  --headerbg: transparent;
+  --headerbg: transparent;;
   --navbg: transparent;
   --mainbg: transparent;
   --footerbg: transparent;
@@ -61,6 +61,10 @@ header {
   /* padding: 15px; */
   background: var(--headerbg);
   gap: 5px;
+  background-image: url(img/banner.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 header img {
