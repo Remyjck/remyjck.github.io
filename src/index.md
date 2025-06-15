@@ -20,8 +20,9 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
+As of October 2023, I am a PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
 
+My research interests are in programming languages, formal verification, and program semantics. Specifically, I am focused on giving mechanised formal semantics for OCaml, and providing a program logic for these semantics using [Iris](https://iris-project.org/).
 
 # Publications
 
