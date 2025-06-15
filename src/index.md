@@ -24,7 +24,7 @@ As of October 2023, I am a PhD student at Inria Paris' [Cambium](https://cambium
 
 My research interests are in programming languages, formal verification, and program semantics. Specifically, I am focused on giving mechanised formal semantics for OCaml, and providing a program logic for these semantics using [Iris](https://iris-project.org/).
 
-> [!UPDATE]
+> [!NOTE]
 > As of 2025, I am working with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge, UK.
 > There, I am working on the formal verification of Rust programs.
 
