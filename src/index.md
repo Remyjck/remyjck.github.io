@@ -6,11 +6,11 @@ description-meta: PhD student in Computer Science
 og-url: https://remyjck.github.io
 location: Microsoft Research, Cambridge
 email: remy.seassau@inria.fr
-picture: img/profile.png
+picture: img/profile.jpg
 picture-round: false
 side-by-side: false
 pronouns: He/Him
-og-picture: https://remyjck.github.io/img/profile.png
+og-picture: https://remyjck.github.io/img/profile.jpg
 orcid: 0009-0008-6226-1413
 scholar: https://scholar.google.com/citations?user=Qg94i1YAAAAJ
 bluesky: https://bsky.app/
