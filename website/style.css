@@ -59,7 +59,7 @@ header {
   justify-content: center;
   align-items: center;
   /* padding: 15px; */
-  background: url("img/banner.jpeg") 50% / cover;
+  background: url("img/banner1.jpg") 50% / cover;
   gap: 5px;
 }
 
