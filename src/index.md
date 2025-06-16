@@ -50,11 +50,13 @@ title: "Pancake: Verified Systems Programming Made Sweeter"
 authors: Johannes Åman Pohjola, ..., Remy Seassau, M. O. Myreen, M. Norrish, G. Heiser
 venue: PLOS, Koblenz, Germany
 year: 2023
-url: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
 files:
   - text: Paper
     type: pdf
     src: papers/pancake.pdf
+  - text: DOI
+    type: link
+    src: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
 ```
 
 # Education
