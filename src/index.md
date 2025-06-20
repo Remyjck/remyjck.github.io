@@ -71,7 +71,7 @@ There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.syst
 
 # CV
 
-You can find my CV [here](~/files/main.pdf) (last updated 20/06/2025).
+You can find my CV [here](https://remyjck.github.io/files/main.pdf) (last updated 20/06/2025).
 
 # Teaching
 
