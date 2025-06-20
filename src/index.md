@@ -61,8 +61,8 @@ files:
 
 # Education
 
-- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/)
-- Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science)
+- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/) (2019-2022)
+- Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) (2022-2023)
 
 # Research Visits
 
