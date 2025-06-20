@@ -16,8 +16,8 @@ bluesky: https://bsky.app/profile/remyjck.bsky.social
 linkedin: https://www.linkedin.com/in/remy-seassau/
 footer: >-
   Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  [basicpage template](https://github.com/basicpage/basicpage.github.io) by
+  [Theo Winterhalter](https://theowinterhalter.github.io/) and [Yannick Forster](https://yforster.de/).
 ---
 
 As of October 2023, I am a PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
@@ -71,7 +71,7 @@ There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.syst
 
 # CV
 
-You can find my CV [here](~/files/main.pdf).
+You can find my CV [here](~/files/main.pdf) (last updated 20/06/2025).
 
 # Teaching
 
