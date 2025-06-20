@@ -69,6 +69,10 @@ files:
 In 2022, I had the opportunity to work with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group hosted at UNSW Sydney, Australia.
 There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.systems/projects/pancake/) using CakeML's verified compilation toolchain.
 
+# CV
+
+You can find my CV [here](~/files/main.pdf).
+
 # Teaching
 
 - Introduction to Programming (IP1), Université Paris Cité
