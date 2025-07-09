@@ -13,6 +13,7 @@
   <meta name="viewport" content="width=device-width">
   <meta name="generator" content="pandoc">
   <meta property="og:type" content="website">
+  <meta name="google-site-verification" content="pGp-TiWcVU-2CrvO_8SkOCXfgoPbj2cdOWrO4xKpkKM" />
   $for(author-meta)$
   <meta name="author" content="$author-meta$">
   $endfor$
