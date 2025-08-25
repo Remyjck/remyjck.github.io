@@ -20,22 +20,20 @@ footer: >-
   [Theo Winterhalter](https://theowinterhalter.github.io/) and [Yannick Forster](https://yforster.de/).
 ---
 
-As of October 2023, I am a PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
+I am a second-year PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
 
-My research interests are in programming languages, formal verification, and program semantics. Specifically, I am focused on giving mechanised formal semantics for OCaml, and providing a program logic for these semantics using [Iris](https://iris-project.org/).
+My research interests are in programming languages, formal verification, and program semantics.
 
-> [!NOTE]
-> As of 2025, I am working with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge, UK.
-> There, I am working on the formal verification of Rust programs.
+My current main project is to give mechanised formal semantics for OCaml, and to provide a program logic for these semantics using [Iris](https://iris-project.
 
 # Publications
 
 ## Conference papers
 
 ``` yaml {.paper}
-title: Formal semantics and program logics for a fragment of OCaml.
+title: Formal semantics and Program Logics for a Fragment of OCaml.
 authors: Remy Seassau, Irene Yoon, Jean-Marie Madiot, François Pottier
-venue: Submitted Draft
+venue: ICFP 2025: International Conference on Functional Programming
 year: 2025
 files:
   - text: Paper
@@ -66,6 +64,8 @@ files:
 
 # Research Visits
 
+During the summer of 2025, I worked with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge (UK) on the formal verification of Rust programs.
+
 In 2022, I had the opportunity to work with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group hosted at UNSW Sydney, Australia.
 There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.systems/projects/pancake/) using CakeML's verified compilation toolchain.
 
@@ -76,3 +76,4 @@ You can find my CV [here](https://remyjck.github.io/files/main.pdf) (last update
 # Teaching
 
 - Introduction to Programming (IP1), Université Paris Cité
+- Introduction to CAML, EPITA
