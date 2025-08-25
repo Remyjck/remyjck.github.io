@@ -4,7 +4,7 @@ author: Remy Seassau
 shortbio: PhD student in Computer Science
 description-meta: PhD student in Computer Science
 og-url: https://remyjck.github.io
-location: Microsoft Research, Cambridge
+location: Paris, France
 email: remy.seassau@inria.fr
 picture: img/profile.jpg
 picture-round: true
