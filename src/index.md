@@ -24,7 +24,7 @@ I am a second-year PhD student at Inria Paris' [Cambium](https://cambium.inria.f
 
 My research interests are in programming languages, formal verification, and program semantics.
 
-My current main project is to give mechanised formal semantics for OCaml, and to provide a program logic for these semantics using [Iris](https://iris-project.
+My current main project is to give mechanised formal semantics for OCaml, and to provide a program logic for these semantics using [Iris](https://iris-project).
 
 # Publications
 
@@ -39,6 +39,12 @@ files:
   - text: Paper
     type: pdf
     src: papers/osiris.pdf
+  - text: DOI
+    type: link
+    src: https://dl.acm.org/doi/10.1145/3747509
+  - text: Artifact
+    type: link
+    src: https://doi.org/10.5281/zenodo.16327523
 ```
 
 ## Workshop papers
