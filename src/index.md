@@ -65,14 +65,14 @@ files:
 
 # Education
 
-- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/) (2019-2022)
 - Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) (2022-2023)
+- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/) (2019-2022)
 
 # Research Visits
 
-During the summer of 2025, I worked with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge (UK) on the formal verification of Rust programs.
+During the summer of 2025, I worked with [Son Ho](https://www.sonho.fr/) at Microsoft Research in Cambridge (UK) on the formal verification of unsafe Rust programs.
 
-In 2022, I had the opportunity to work with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group hosted at UNSW Sydney, Australia.
+In 2022, I had the opportunity to work with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group (home of seL4) hosted at UNSW Sydney, Australia.
 There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.systems/projects/pancake/) using CakeML's verified compilation toolchain.
 
 # CV
