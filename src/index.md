@@ -70,7 +70,7 @@ files:
 
 # Research Visits
 
-During the summer of 2025, I interned at Microsoft Research in Cambridge (UK), where I worked with [Son Ho](https://www.sonho.fr/) on the formal verification of unsafe Rust programs.
+During the summer of 2025, I interned at Microsoft Research in Cambridge (UK) where I worked with [Son Ho](https://www.sonho.fr/) on the formal verification of unsafe Rust programs.
 
 In 2022, I work as a research assistant with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group (home of seL4) hosted at UNSW Sydney, Australia.
 There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.systems/projects/pancake/) using CakeML's verified compilation toolchain.
