@@ -33,7 +33,7 @@ My current main project is to give mechanised formal semantics for OCaml, and to
 ``` yaml {.paper}
 title: Formal semantics and Program Logics for a Fragment of OCaml.
 authors: Remy Seassau, Irene Yoon, Jean-Marie Madiot, François Pottier
-venue: ICFP 2025: International Conference on Functional Programming
+venue: "ICFP 2025: International Conference on Functional Programming"
 year: 2025
 files:
   - text: Paper
