@@ -81,5 +81,5 @@ You can find my CV [here](https://remyjck.github.io/files/remy-seassau-CV.pdf) (
 
 # Teaching
 
-- Introduction to Programming (IP1), Université Paris Cité
-- Introduction to CAML, EPITA
+- Introduction to CAML, EPITA, Fall 2025
+- Introduction to Programming (IP1), Université Paris Cité, Fall 2024
