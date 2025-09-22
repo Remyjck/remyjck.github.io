@@ -102,7 +102,7 @@ header div.icons {
 }
 
 header div.icons a {
-  font-size: x-large;
+  font-size: xx-large;
 }
 
 header div.icons a[title] {
@@ -124,6 +124,26 @@ header div.icons a:hover[title]::after {
   left: 50%;
   transform: translate(-50%, -1em);
   z-index: 1;
+}
+
+div.icons a:has(i.ai-orcid):hover {
+  color: #A6CE39;
+}
+
+div.icons a:has(i.fa-bluesky):hover {
+  color: rgb(0, 133, 255);
+}
+
+div.icons a:has(i.fa-mastodon):hover {
+  color: rgb(99 100 255);
+}
+
+div.icons a:has(i.fa-github):hover {
+  color: #1f2329;
+}
+
+div.icons a:has(i.ai-google-scholar):hover {
+  color: #3769c3;
 }
 
 /*** NAV ***/
