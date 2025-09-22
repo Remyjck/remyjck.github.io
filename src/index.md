@@ -28,7 +28,7 @@ My research interests are in programming languages, formal verification, and pro
 My current main project is to give mechanised formal semantics for
 <img src="/img/ocaml-logo.svg" alt="Ocaml logo" style="height: 1em; vertical-align: text-top"> OCaml,
 and to provide a program logic for these semantics using
-[<img src="/img/iris-logo.svg" alt="Iris logo" style="height: 1em; vertical-align: sub"> Iris](https://iris-project).
+[<img src="/img/iris-logo.svg" alt="Iris logo" style="height: 1em; vertical-align: sub"> Iris](https://iris-project.org).
 
 # Publications
 
