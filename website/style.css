@@ -93,23 +93,24 @@ header p {
   text-align: center;
 }
 
-header div.icons {
+nav div.icons {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
+  padding: 8px;
 }
 
-header div.icons a {
+nav div.icons a {
   font-size: xx-large;
 }
 
-header div.icons a[title] {
+nav div.icons a[title] {
   position: relative;
 }
 
-header div.icons a:hover[title]::after {
+nav div.icons a:hover[title]::after {
   content: attr(title);
   display: inline-block;
   padding: 0.2em 0.6em;
@@ -127,23 +128,27 @@ header div.icons a:hover[title]::after {
 }
 
 div.icons a:has(i.ai-orcid):hover {
-  color: #A6CE39;
+    color: #A6CE39;
 }
 
 div.icons a:has(i.fa-bluesky):hover {
-  color: rgb(0, 133, 255);
+    color: rgb(0, 133, 255);
 }
 
 div.icons a:has(i.fa-mastodon):hover {
-  color: rgb(99 100 255);
+    color: rgb(99 100 255);
+}
+
+div.icons a:has(i.fa-linkedin):hover {
+    color: rgb(0, 122, 281);
 }
 
 div.icons a:has(i.fa-github):hover {
-  color: #1f2329;
+    color: #1f2329;
 }
 
 div.icons a:has(i.ai-google-scholar):hover {
-  color: #3769c3;
+    color: #3769c3;
 }
 
 /*** NAV ***/
