@@ -98,13 +98,13 @@ nav div.icons {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 8px;
+  gap: 12px;
   padding: 8px;
-  color: #56473d;
 }
 
 nav div.icons a {
-  font-size: x-large;
+    font-size: x-large;
+    color: var(--navlink);
 }
 
 nav div.icons a[title] {
