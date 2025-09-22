@@ -152,6 +152,10 @@ div.icons a:has(i.ai-google-scholar):hover {
     color: #3769c3;
 }
 
+div.icons a:has(i.ai-dblp):hover {
+    color: #ffd601;
+}
+
 /*** NAV ***/
 
 nav {
