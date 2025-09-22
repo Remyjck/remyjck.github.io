@@ -75,7 +75,7 @@ files:
 # Research Visits
 
 During the summer of 2025, I interned at
-<img src="/img/microsoft-logo.svg" alt="Microsoft logo" style="height: 1em; vertical-align: sub"> Microsoft Research
+<img src="/img/microsoft-logo.svg" alt="Microsoft logo" style="height: 1em; vertical-align: text-top"> Microsoft Research
 in Cambridge (UK) where I worked with [Son Ho](https://www.sonho.fr/) on the formal verification of unsafe Rust programs.
 
 In 2022, I work as a research assistant with Johannes Åman Pohjola at the [Trustworthy Systems](https://trustworthy.systems/) group (home of seL4) hosted at UNSW Sydney, Australia.
