@@ -100,6 +100,7 @@ nav div.icons {
   justify-content: center;
   gap: 8px;
   padding: 8px;
+  color: #56473d;
 }
 
 nav div.icons a {
@@ -158,6 +159,7 @@ nav {
   width: auto;
   margin: auto;
   padding: 15px;
+  padding-bottom: 0px;
   background: var(--navbg);
   border-bottom: 1px solid var(--navborder);
 }
