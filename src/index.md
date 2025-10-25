@@ -49,6 +49,12 @@ files:
   - text: Artifact
     type: link
     src: https://doi.org/10.5281/zenodo.16327523
+  - text: Slides
+    type: pdf
+    src: slides/osiris.pdf
+  - text: Talk
+    type: link
+    src: https://www.youtube.com/live/OrlezX4LDlo?si=xTfnNrwfXjs_G1wo&t=18799
 ```
 
 ## Workshop papers
