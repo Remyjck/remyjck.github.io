@@ -83,7 +83,7 @@ function paper(data)
     elseif type == "code" then
       icon = "<i class=\"fa-solid fa-file-code\"></i>"
     elseif type == "video" then
-      icon = "<i class=\"fa-solid fa-file-video\"></i>"
+      icon = "<i class=\"fa-solid fa-video\"></i>"
     elseif type == "txt" then
       icon = "<i class=\"fa-solid fa-file-lines\"></i>"
     elseif type == "img" then
@@ -91,7 +91,7 @@ function paper(data)
     elseif type == "zip" then
       icon = "<i class=\"fa-solid fa-file-zipper\"></i>"
     elseif type == "slides" then
-      icon = "<i class=\"fa-solid fa-file-powerpoint\"></i>"
+      icon = "<i class=\"fa-solid fa-person-chalkboard\"></i>"
     elseif type == "link" then
       icon = "<i class=\"fa-solid fa-link\"></i>"
     elseif type == "git" then
