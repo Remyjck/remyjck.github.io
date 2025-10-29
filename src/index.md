@@ -46,15 +46,15 @@ files:
   - text: DOI
     type: link
     src: https://dl.acm.org/doi/10.1145/3747509
-  - text: Artifact
-    type: link
-    src: https://doi.org/10.5281/zenodo.16327523
   - text: Slides
-    type: pdf
+    type: slides
     src: slides/osiris.pdf
   - text: Talk
-    type: link
+    type: video
     src: https://www.youtube.com/live/OrlezX4LDlo?si=xTfnNrwfXjs_G1wo&t=18799
+  - text: Artifact
+    type: code
+    src: https://doi.org/10.5281/zenodo.16327523
 ```
 
 ## Workshop papers
