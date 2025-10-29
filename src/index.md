@@ -22,7 +22,6 @@ footer: >-
 ---
 
 I am a second-year PhD student at Inria Paris' [Cambium](https://cambium.inria.fr/) team, supervised by [François Pottier](https://cambium.inria.fr/~fpottier/).
-
 My research interests are in programming languages, formal verification, and program semantics.
 
 My current PhD project, called Osiris, is to give mechanised formal semantics for
