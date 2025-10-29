@@ -25,14 +25,14 @@ I am a second-year PhD student at Inria Paris' [Cambium](https://cambium.inria.f
 
 My research interests are in programming languages, formal verification, and program semantics.
 
-My current main project is to give mechanised formal semantics for
+My current PhD project, called Osiris, is to give mechanised formal semantics for
 <img src="/img/ocaml-logo.svg" alt="Ocaml logo" style="height: 1em; vertical-align: text-top"> OCaml,
 and to provide a program logic for these semantics using
 [<img src="/img/iris-logo.svg" alt="Iris logo" style="height: 1em; vertical-align: sub"> Iris](https://iris-project.org).
 
-# Publications
+I am also curently working with [Son Ho](https://www.sonho.fr/) on Aeneas, a tool for the formal verification of Rust programs in Lean.
 
-## Conference papers
+# Publications
 
 ``` yaml {.paper}
 title: Formal semantics and Program Logics for a Fragment of OCaml
@@ -57,8 +57,6 @@ files:
     src: https://doi.org/10.5281/zenodo.16327523
 ```
 
-## Workshop papers
-
 ``` yaml {.paper}
 title: "Pancake: Verified Systems Programming Made Sweeter"
 authors: Johannes Åman Pohjola, ..., Remy Seassau, M. O. Myreen, M. Norrish, G. Heiser
@@ -75,10 +73,14 @@ files:
 
 # Education
 
-- Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) (2022-2023)
-- Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/) (2019-2022)
+I hold a Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) (2022-2023)
 
-# Research Visits
+I hold a Bachelor's degree in Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/) (2019-2022)
+
+I am currently enrolled as a PhD student at [Université Paris Cité](https://www.math.u-paris.fr/formations/doctorats/index),
+although my office is located at [Inria's Paris Centre](https://www.inria.fr/fr/comment-venir-au-centre-inria-de-paris).
+
+# Research Visits and Internships
 
 During the summer of 2025, I interned at
 <img src="/img/microsoft-logo.svg" alt="Microsoft logo" style="height: 1em; vertical-align: text-top"> Microsoft Research
