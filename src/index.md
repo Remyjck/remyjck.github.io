@@ -90,7 +90,7 @@ There, I bootstrapped a verified compiler for [Pancake](https://trustworthy.syst
 
 # CV
 
-You can find my CV [here](https://remyjck.github.io/files/remy-seassau-CV.pdf) (last updated 17/09/2025).
+You can find my CV [here](https://remyjck.github.io/files/remy-seassau-CV.pdf) (last updated 21/11/2025).
 
 # Teaching
 
