@@ -50,7 +50,7 @@ files:
     src: slides/osiris.pdf
   - text: Talk
     type: video
-    src: https://www.youtube.com/live/OrlezX4LDlo?si=xTfnNrwfXjs_G1wo&t=18799
+    src: https://youtu.be/5y-SGiA8ycs
   - text: Artifact
     type: code
     src: https://doi.org/10.5281/zenodo.16327523
