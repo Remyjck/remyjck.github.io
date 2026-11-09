@@ -70,6 +70,10 @@ files:
     src: https://dl.acm.org/doi/abs/10.1145/3623759.3624544
 ```
 
+# Talks
+
+- **Osiris**, Epicure team seminar, October 2026 ([slides](slides/epicure/))
+
 # Education
 
 I hold a Master's degree in Computer Science from the [University of Oxford](https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science) (2022-2023)
